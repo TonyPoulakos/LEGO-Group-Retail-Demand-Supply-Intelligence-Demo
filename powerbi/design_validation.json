@@ -1,0 +1,10 @@
+{
+  "original_visuals": 32,
+  "pages": 3,
+  "queries_unchanged": true,
+  "semantic_model_unchanged": true,
+  "desktop_rendering_tested": false,
+  "schema_validation": "passed",
+  "schema_documents": 59,
+  "schema_errors": []
+}

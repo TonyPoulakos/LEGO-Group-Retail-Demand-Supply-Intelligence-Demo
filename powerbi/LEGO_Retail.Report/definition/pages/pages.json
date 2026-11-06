@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/pagesMetadata/1.0.0/schema.json",
+  "pageOrder": [
+    "project_summary",
+    "engineering_evidence",
+    "executive_overview",
+    "demand_forecast",
+    "inventory_supply"
+  ],
+  "activePageName": "project_summary"
+}

@@ -1,0 +1,136 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "2bebc74f9f08442c8196",
+  "position": {
+    "x": 855.9,
+    "y": 490.28,
+    "width": 377.15,
+    "height": 30.31,
+    "z": 38,
+    "tabOrder": 38
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "The baseline underforecasts demand by ",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "11.57pt",
+                      "fontWeight": "normal",
+                      "color": "#202020"
+                    }
+                  },
+                  {
+                    "value": "6.04%",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "11.57pt",
+                      "fontWeight": "bold",
+                      "color": "#202020"
+                    }
+                  },
+                  {
+                    "value": ", with",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "11.57pt",
+                      "fontWeight": "normal",
+                      "color": "#202020"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "100D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "padding": [
+        {
+          "properties": {
+            "left": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            },
+            "right": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            },
+            "top": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            },
+            "bottom": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

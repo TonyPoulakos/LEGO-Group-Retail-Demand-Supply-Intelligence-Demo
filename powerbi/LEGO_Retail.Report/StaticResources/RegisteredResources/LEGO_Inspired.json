@@ -1,0 +1,58 @@
+{
+  "name": "LEGO Inspired \u2014 Tony Poulakos",
+  "dataColors": [
+    "#D01012",
+    "#0055BF",
+    "#00852B",
+    "#FFCF00",
+    "#A5499A",
+    "#F57C00"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#202020",
+  "tableAccent": "#D01012",
+  "good": "#00852B",
+  "neutral": "#FFCF00",
+  "bad": "#D01012",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI",
+      "color": "#202020"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#404040"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "color": "#202020"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#202020"
+              }
+            },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
