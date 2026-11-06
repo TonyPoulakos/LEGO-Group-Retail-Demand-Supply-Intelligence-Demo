@@ -6,7 +6,7 @@ An executed Databricks demonstration that turns realistic synthetic retail trans
 
 > Independent, LEGO Group-inspired technical demonstration. All stores, products, demand, transactions, and supply data are synthetic. This is not an official LEGO Group project, internal system, or enterprise production deployment.
 
-[Read the five-page case study](reports/LEGO_Retail_Case_Study.pdf) · [Open the notebook](notebooks/LEGO_Retail_Demand_Supply_Intelligence.ipynb) · [Download the Power BI file](powerbi/LEGO_Retail.pbix) · [View execution evidence](results/runtime_results.json)
+[Read the five-page case study](reports/LEGO_Group_Retail_Case_Study.pdf) · [Open the notebook](notebooks/LEGO_Retail_Demand_Supply_Intelligence.ipynb) · [Download the Power BI file](powerbi/LEGO_Retail.pbix) · [View execution evidence](results/runtime_results.json)
 
 ![Executive overview](images/executive-overview.png)
 
@@ -65,7 +65,7 @@ The forecast is a fixed-origin, 28-day holdout using the preceding 56-day mean b
 
 ## Explore or reproduce
 
-1. Start with the [PDF](reports/LEGO_Retail_Case_Study.pdf) and dashboard previews.
+1. Start with the [PDF](reports/LEGO_Group_Retail_Case_Study.pdf) and dashboard previews.
 2. Inspect [exported results](results/runtime_results.json) and [quality checks](results/quality_checks.csv).
 3. Follow the [reproduction guide](docs/REPRODUCTION.md) to run the Databricks notebook.
 4. Review the [data dictionary](docs/DATA_DICTIONARY.md) for table grains and KPI definitions.
