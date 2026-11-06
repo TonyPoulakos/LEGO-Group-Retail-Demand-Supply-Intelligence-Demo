@@ -1,0 +1,25 @@
+product_id,sku,product_name,theme,list_price
+1,DEMO-001,Fictional building set 01,City-inspired,19.99
+2,DEMO-002,Fictional building set 02,City-inspired,29.99
+3,DEMO-003,Fictional building set 03,City-inspired,49.99
+4,DEMO-004,Fictional building set 04,City-inspired,79.99
+5,DEMO-005,Fictional building set 05,City-inspired,99.99
+6,DEMO-006,Fictional building set 06,City-inspired,149.99
+7,DEMO-007,Fictional building set 07,Space-inspired,19.99
+8,DEMO-008,Fictional building set 08,Space-inspired,29.99
+9,DEMO-009,Fictional building set 09,Space-inspired,49.99
+10,DEMO-010,Fictional building set 10,Space-inspired,79.99
+11,DEMO-011,Fictional building set 11,Space-inspired,99.99
+12,DEMO-012,Fictional building set 12,Space-inspired,149.99
+13,DEMO-013,Fictional building set 13,Creative bricks,19.99
+14,DEMO-014,Fictional building set 14,Creative bricks,29.99
+15,DEMO-015,Fictional building set 15,Creative bricks,49.99
+16,DEMO-016,Fictional building set 16,Creative bricks,79.99
+17,DEMO-017,Fictional building set 17,Creative bricks,99.99
+18,DEMO-018,Fictional building set 18,Creative bricks,149.99
+19,DEMO-019,Fictional building set 19,Vehicles-inspired,19.99
+20,DEMO-020,Fictional building set 20,Vehicles-inspired,29.99
+21,DEMO-021,Fictional building set 21,Vehicles-inspired,49.99
+22,DEMO-022,Fictional building set 22,Vehicles-inspired,79.99
+23,DEMO-023,Fictional building set 23,Vehicles-inspired,99.99
+24,DEMO-024,Fictional building set 24,Vehicles-inspired,149.99

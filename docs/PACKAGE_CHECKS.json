@@ -1,0 +1,9 @@
+{
+  "daily_rows": true,
+  "unique_daily_keys": true,
+  "revenue_reconciles": true,
+  "lost_units_reconcile": true,
+  "inventory_balance": true,
+  "exported_quality_checks_pass": true,
+  "pdf_pages": true
+}

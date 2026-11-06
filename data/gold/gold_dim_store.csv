@@ -1,0 +1,13 @@
+store_id,store_name,region
+1,Demo Boston,Northeast
+2,Demo New York,Northeast
+3,Demo Philadelphia,Northeast
+4,Demo Chicago,Central
+5,Demo Minneapolis,Central
+6,Demo Dallas,Central
+7,Demo Atlanta,South
+8,Demo Miami,South
+9,Demo Orlando,South
+10,Demo Seattle,West
+11,Demo Portland,West
+12,Demo San Diego,West
