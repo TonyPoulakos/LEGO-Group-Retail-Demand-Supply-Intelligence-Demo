@@ -1,0 +1,6 @@
+# Local Power BI and development state
+**/.pbi/
+**/.DS_Store
+**/__pycache__/
+*.pyc
+.env
