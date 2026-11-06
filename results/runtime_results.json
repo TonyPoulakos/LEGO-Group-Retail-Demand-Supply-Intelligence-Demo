@@ -1,0 +1,20 @@
+{
+  "store_product_days": 51840,
+  "revenue_usd": "8701703.34",
+  "units_sold": 123166,
+  "demand_units": 133255,
+  "consumer_demand_fill_rate": 0.9242880192112867,
+  "daily_availability_rate": 0.9445601851851851,
+  "stockout_day_rate": 0.07748842592592593,
+  "lost_units": 10089,
+  "modeled_stockout_exposure_usd": "707795.11",
+  "forecast_wape": 0.5309715025906736,
+  "forecast_bias": -0.06038860103626943,
+  "supplier_fill_rate": 0.8892492648330739,
+  "ending_inventory_units": 2548,
+  "run_id": "6e0a1217-0e7c-4879-bde4-4665ad250a5b",
+  "quality_checks_passed": 18,
+  "elapsed_seconds": 124.69,
+  "status": "SUCCEEDED",
+  "data_classification": "SYNTHETIC; independent portfolio demonstration"
+}
