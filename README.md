@@ -1,10 +1,10 @@
-# LEGO Retail Demand & Supply Intelligence
+# LEGO Group Retail Demand & Supply Intelligence
 
 **Tony Poulakos | Independent BI and data engineering portfolio**
 
 An executed Databricks demonstration that turns realistic synthetic retail transactions, inventory, and replenishment data into a Power BI reporting model. It connects data engineering decisions to sales performance, demand forecasting, and inventory availability.
 
-> Independent, LEGO-inspired technical demonstration. All stores, products, demand, transactions, and supply data are synthetic. This is not an official LEGO Group project, internal system, or enterprise production deployment.
+> Independent, LEGO Group-inspired technical demonstration. All stores, products, demand, transactions, and supply data are synthetic. This is not an official LEGO Group project, internal system, or enterprise production deployment.
 
 [Read the five-page case study](reports/LEGO_Retail_Case_Study.pdf) · [Open the notebook](notebooks/LEGO_Retail_Demand_Supply_Intelligence.ipynb) · [Download the Power BI file](powerbi/LEGO_Retail.pbix) · [View execution evidence](results/runtime_results.json)
 
@@ -59,7 +59,7 @@ The PBIX is the simplest opening option. Download it from GitHub before opening 
 
 ![Demand forecast](images/demand-forecast.png)
 
-The forecast is a fixed-origin, 28-day holdout using the preceding 56-day mean by store, product, and weekday. Its 53.10% WAPE is a baseline result with substantial local error. Aggregated network curves can appear closer than the store-product-day error suggests. Simulated unconstrained demand is available here; real retail demand lost to stockouts would need estimation.
+The forecast is a fixed-origin, 28-day holdout using the preceding 56-day mean by store, product, and weekday. Its 53.10% Weighted Absolute Percentage Error (WAPE) is a baseline result with substantial local error. Aggregated network curves can appear closer than the store-product-day error suggests. Simulated unconstrained demand is available here; real retail demand lost to stockouts would need estimation.
 
 ![Inventory and supply](images/inventory-supply.png)
 
