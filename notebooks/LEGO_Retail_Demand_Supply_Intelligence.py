@@ -1,11 +1,11 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC # LEGO Retail Demand & Supply Intelligence
+# MAGIC # LEGO Group Retail Demand & Supply Intelligence
 # MAGIC **Tony Poulakos | Independent technical portfolio demonstration**
 # MAGIC 
 # MAGIC Synthetic data only. Not affiliated with, commissioned by, or deployed within the LEGO Group. Store locations, product names, prices, demand, inventory, and operational outcomes are invented. This is a small batch prototype, not an enterprise production deployment.
 # MAGIC 
-# MAGIC **Run status:** This delivered notebook has not been executed in Databricks. Run all cells on Free Edition serverless compute; only successful runtime outputs constitute results. No external data, credentials, libraries, or paid services are required.
+# MAGIC **Run status:** This delivered notebook has been executed in Databricks. Run all cells on Free Edition serverless compute; only successful runtime outputs constitute results. No external data, credentials, libraries, or paid services are required.
 # MAGIC 
 # MAGIC Architecture: Python simulator → Bronze raw Delta → PySpark validation/quarantine → Silver conformed Delta → SQL Gold star schema and KPI marts → Power BI CSV extracts. Tables are confined to the dedicated `lego_portfolio_demo` schema. Re-running replaces only this demonstration's named tables and exports.
 # MAGIC 
